@@ -140,16 +140,7 @@ jupyter notebook
 
 ## **📞 Contact**
 For inquiries or collaboration:
-📩 **Email:** *(Your email here)*  
-🐍 **GitHub:** [Your GitHub Profile](https://github.com/your-profile)
-
----
-
-### ✅ **Final Checklist Before Submission**
-- [x] Upload all **Jupyter Notebooks** to GitHub 📂  
-- [x] Ensure **README.md** is structured & informative 📝  
-- [x] Test all **code cells** before submission 🚀  
-- [x] Verify **data visualizations & insights** align with findings 📊  
-- [x] Include **sample output images (if applicable)** 📸  
+📩 **Email:** *tonyclark1996@gmail.com*  
+🐍 **GitHub:** [TJC1996]
 
 ---
